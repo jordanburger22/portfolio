@@ -1666,4 +1666,13 @@ input, select, textarea {
 
 #project-link{
 	font-size: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100px;
+	align-items: center;
+}
+
+.see-code{
+	font-size: 17px;
 }
